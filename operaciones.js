@@ -37,6 +37,6 @@ console.log(`El resultado de la resta es: ${resta}`);
 console.log(`El resultado de la multiplicación es: ${multiplicacion}`);
 console.log(`El resultado de la división es: ${division}`);
 console.log(`El resultado del modulo es: ${modulo}`);
-console.log(`El numero ${n1} es mayor que el numero ${n2}? = ${esMayor}`);
-console.log(`El numero ${n1} es menor que el numero ${n2}? = ${esMenor}`);
+console.log(`El número ${n1} es mayor que el número ${n2}? = ${esMayor}`);
+console.log(`El número ${n1} es menor que el número ${n2}? = ${esMenor}`);
 
